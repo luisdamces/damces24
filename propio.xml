@@ -21,6 +21,7 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:keywords></itunes:keywords>
         <itunes:summary>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</itunes:summary>
+        <atom:link rel="alternate" href="http://hdl.handle.net/10259/7531" />
         <item>
               <title>Primer item</title>
               <link>https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/</link>
