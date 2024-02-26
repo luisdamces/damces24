@@ -11,6 +11,16 @@
             <url>https://img2.rtve.es/imagenes/50/1624028284337.jpg</url>
             <link>https://www.rtve.es/play/audios/50/</link>
         </image>
+        <itunes:owner>
+            <itunes:email>movil.irtve@rtve.es</itunes:email>
+            <itunes:name>RTVE</itunes:name>
+        </itunes:owner>
+        <itunes:image href="https://img2.rtve.es/imagenes/50/1624028284337.jpg"></itunes:image>
+        <itunes:category text="Science"></itunes:category>
+        <itunes:author>Radio 5</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords></itunes:keywords>
+        <itunes:summary>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</itunes:summary>
         <item>
               <title>Primer item</title>
               <link>https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/</link>
