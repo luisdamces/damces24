@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>Mi propio xml para podcast</title>
         <link>https://www.rtve.es/play/audios/50/</link>
@@ -23,6 +23,42 @@
         <itunes:summary>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</itunes:summary>
         <atom:link rel="self" />
         <item>
+      <title>5.0 - La IA llega al fútbol español - 20/02/24</title>
+      <link>https://www.rtve.es/play/audios/50/50-ia-llega-futbol-espanol-20-02-24/15977952/</link>
+      <description>&lt;p&gt;El deporte en general y el f&amp;uacute;tbol en particular es una m&amp;aacute;quina de generar datos. Estructur&amp;aacute;ndolos un analista puede saber si un jugador dar&amp;aacute; un buen rendimiento en una posici&amp;oacute;n o si su precio se ajusta al mercado... Pero, &amp;iquest;y c&amp;oacute;mo puede un buscador de perfiles entender la jerga futbol&amp;iacute;stica?... &amp;iquest;C&amp;oacute;mo sabe una m&amp;aacute;quina qu&amp;eacute; caracter&amp;iacute;sticas tiene un delantero tanque o un extremo escurridizo? El Sevilla F.C. e IBM han colaborado para crear una poderosa herramienta de IA generativa que ayudar&amp;aacute; a los fichajes del pr&amp;oacute;ximo verano. Hoy charlamos con sus creadores.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-ia-llega-futbol-espanol-20-02-24/15977952/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERMAGAZ-TESHORAA&amp;si=https://www.rtve.es/play/audios/50/50-ia-llega-futbol-espanol-20-02-24/15977952/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/15977952.mp3" length="26316964" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <category>/iRTVE/Temáticas/Liga de fútbol</category>
+      <category>/iRTVE/Temáticas/Fichajes</category>
+      <category>/iRTVE/Temáticas/Inteligencia artificial</category>
+      <pubDate>Tue, 20 Feb 2024 17:30:06 GMT</pubDate>
+      <guid>https://www.rtve.es/a/15977952/</guid>
+      <itunes:duration>00:27:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>La IA llega al fútbol español</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-ia-llega-futbol-espanol-200224/01708422361712.jpg"></itunes:image>
+      <itunes:summary>El deporte en general y el fútbol en particular es una máquina de generar datos. Estructurándolos un analista puede saber si un jugador dará un buen rendimiento en una posición o si su precio se ajusta al mercado... Pero, ¿y cómo puede un buscador de perfiles entender la jerga futbolística?... ¿Cómo sabe una máquina qué características tiene un delantero tanque o un extremo escurridizo? El Sevilla F.C. e IBM han colaborado para crear una poderosa herramienta de IA generativa que ayudará a los fichajes del próximo verano. Hoy charlamos con sus creadores.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - Celia, una asistente de voz con IA para paliar la soledad - 13/02/24</title>
+      <link>https://www.rtve.es/play/audios/50/50-celia-asistente-voz-ia-para-paliar-soledad-13-02-24/15967954/</link>
+      <description>&lt;p&gt;Hoy os presentamos un precioso proyecto tecnol&amp;oacute;gico con origen en Galicia. Celia es un asistente conversacional que, a trav&amp;eacute;s del lenguaje natural y la IA, acompa&amp;ntilde;a a personas mayores y detecta problemas de depresi&amp;oacute;n o deterioro cognitivo. Hoy charlamos con Pablo Campos, su creador.. Luego hablamos de movilidad urbana y de los cambios que la DGT ha propuesto para mejorar la seguridad en los patinetes el&amp;eacute;ctricos. Tenemos cita con &amp;Aacute;lvaro Gal&amp;aacute;n, director general de Navee en Espa&amp;ntilde;a.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-celia-asistente-voz-ia-para-paliar-soledad-13-02-24/15967954/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-celia-asistente-voz-ia-para-paliar-soledad-13-02-24/15967954/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/15967954.mp3" length="31273959" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <category>/iRTVE/Temáticas/Tercera Edad</category>
+      <category>/iRTVE/Temáticas/Inteligencia artificial</category>
+      <category>/iRTVE/Temáticas/Whatsapp</category>
+      <pubDate>Tue, 13 Feb 2024 17:30:26 GMT</pubDate>
+      <guid>https://www.rtve.es/a/15967954/</guid>
+      <itunes:duration>00:32:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>Celia, una asistente de voz con IA para paliar la soledad</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-celia-asistente-voz-ia-para-paliar-soledad-130224/01707819189162.jpg"></itunes:image>
+      <itunes:summary>Hoy os presentamos un precioso proyecto tecnológico con origen en Galicia. Celia es un asistente conversacional que, a través del lenguaje natural y la IA, acompaña a personas mayores y detecta problemas de depresión o deterioro cognitivo. Hoy charlamos con Pablo Campos, su creador.. Luego hablamos de movilidad urbana y de los cambios que la DGT ha propuesto para mejorar la seguridad en los patinetes eléctricos. Tenemos cita con Álvaro Galán, director general de Navee en España.</itunes:summary>
+    </item>
+        <item>
               <title>Primer item</title>
               <link>https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/</link>
               <description>validando un xml</description>
@@ -30,6 +66,12 @@
               <category>DAM</category>
               <pubDate>Tue, 03 Oct 2023 09:12:40 GMT</pubDate>
               <guid>https://www.rtve.es/a/6980629/</guid>
+                <itunes:duration>00:24:45</itunes:duration>
+              <itunes:explicit>no</itunes:explicit>
+              <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+              <itunes:subtitle>Homenaje a Mario Tascón</itunes:subtitle>
+              <itunes:image href="https://img2.rtve.es/imagenes/50-homenaje-mario-tascon-031023/1696328063476.jpg"></itunes:image>
+              <itunes:summary>Hoy recordamos al tecnólogo Mario Tascón. Estuvimos con el hace unas semanas en la exposición Fake News de la Fundación Telefónica, uno de sus últimos trabajos.</itunes:summary>
         </item>
     </channel>
 </rss>
