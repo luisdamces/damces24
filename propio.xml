@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-    <channel>
-        <title>Mi propio xml para podcast</title>
-        <link>https://www.rtve.es/play/audios/50/</link>
-        <description>Lenguaje de marcas, coleccion de ejercicios</description>
-        <language>es</language>
-        <pubDate>Mon, 26 Feb 2024 11:51:58 GMT</pubDate>
-        <image>
-            <title>5.0</title>
-            <url>https://img2.rtve.es/imagenes/50/1624028284337.jpg</url>
-            <link>https://www.rtve.es/play/audios/50/</link>
-        </image>
-        <itunes:owner>
-            <itunes:email>movil.irtve@rtve.es</itunes:email>
-            <itunes:name>RTVE</itunes:name>
-        </itunes:owner>
-        <itunes:image href="https://img2.rtve.es/imagenes/50/1624028284337.jpg"></itunes:image>
-        <itunes:category text="Science"></itunes:category>
-        <itunes:author>Radio 5</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:keywords></itunes:keywords>
-        <itunes:summary>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</itunes:summary>
-        <atom:link rel="self" />
-        <item>
+  <channel>
+    <title>5.0</title>
+    <link>https://www.rtve.es/play/audios/50/</link>
+    <description>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</description>
+    <language>es</language>
+    <pubDate>Mon, 26 Feb 2024 11:51:58 GMT</pubDate>
+    <itunes:owner>
+      <itunes:email>movil.irtve@rtve.es</itunes:email>
+      <itunes:name>RTVE</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://img2.rtve.es/imagenes/50/1624028284337.jpg"></itunes:image>
+    <itunes:category text="Science"></itunes:category>
+    <itunes:author>Radio 5</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords></itunes:keywords>
+    <itunes:summary>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</itunes:summary>
+    <image>
+      <title>5.0</title>
+      <url>https://img2.rtve.es/imagenes/50/1624028284337.jpg</url>
+      <link>https://www.rtve.es/play/audios/50/</link>
+    </image>
+    <item>
       <title>5.0 - La IA llega al fútbol español - 20/02/24</title>
       <link>https://www.rtve.es/play/audios/50/50-ia-llega-futbol-espanol-20-02-24/15977952/</link>
       <description>&lt;p&gt;El deporte en general y el f&amp;uacute;tbol en particular es una m&amp;aacute;quina de generar datos. Estructur&amp;aacute;ndolos un analista puede saber si un jugador dar&amp;aacute; un buen rendimiento en una posici&amp;oacute;n o si su precio se ajusta al mercado... Pero, &amp;iquest;y c&amp;oacute;mo puede un buscador de perfiles entender la jerga futbol&amp;iacute;stica?... &amp;iquest;C&amp;oacute;mo sabe una m&amp;aacute;quina qu&amp;eacute; caracter&amp;iacute;sticas tiene un delantero tanque o un extremo escurridizo? El Sevilla F.C. e IBM han colaborado para crear una poderosa herramienta de IA generativa que ayudar&amp;aacute; a los fichajes del pr&amp;oacute;ximo verano. Hoy charlamos con sus creadores.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-ia-llega-futbol-espanol-20-02-24/15977952/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERMAGAZ-TESHORAA&amp;si=https://www.rtve.es/play/audios/50/50-ia-llega-futbol-espanol-20-02-24/15977952/" alt=""/&gt;</description>
@@ -58,20 +57,279 @@
       <itunes:image href="https://img2.rtve.es/imagenes/50-celia-asistente-voz-ia-para-paliar-soledad-130224/01707819189162.jpg"></itunes:image>
       <itunes:summary>Hoy os presentamos un precioso proyecto tecnológico con origen en Galicia. Celia es un asistente conversacional que, a través del lenguaje natural y la IA, acompaña a personas mayores y detecta problemas de depresión o deterioro cognitivo. Hoy charlamos con Pablo Campos, su creador.. Luego hablamos de movilidad urbana y de los cambios que la DGT ha propuesto para mejorar la seguridad en los patinetes eléctricos. Tenemos cita con Álvaro Galán, director general de Navee en España.</itunes:summary>
     </item>
-        <item>
-              <title>Primer item</title>
-              <link>https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/</link>
-              <description>validando un xml</description>
-              <enclosure url="https://ztnr.rtve.es/ztnr/6980629.mp3" length="23794897" type="audio/mpeg"></enclosure>
-              <category>DAM</category>
-              <pubDate>Tue, 03 Oct 2023 09:12:40 GMT</pubDate>
-              <guid>https://www.rtve.es/a/6980629/</guid>
-                <itunes:duration>00:24:45</itunes:duration>
-              <itunes:explicit>no</itunes:explicit>
-              <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
-              <itunes:subtitle>Homenaje a Mario Tascón</itunes:subtitle>
-              <itunes:image href="https://img2.rtve.es/imagenes/50-homenaje-mario-tascon-031023/1696328063476.jpg"></itunes:image>
-              <itunes:summary>Hoy recordamos al tecnólogo Mario Tascón. Estuvimos con el hace unas semanas en la exposición Fake News de la Fundación Telefónica, uno de sus últimos trabajos.</itunes:summary>
-        </item>
-    </channel>
+    <item>
+      <title>5.0 - La tecnología que toma las aulas - 06/02/24</title>
+      <link>https://www.rtve.es/play/audios/50/50-tecnologia-toma-aulas-06-02-24/15958013/</link>
+      <description>&lt;p&gt;Esta semana nos trasladamos a un proyecto formativo muy interesante. Hacemos el programa desde el nuevo centro experiencial que ha montado EAE Madrid para que sus alumnos se familiaricen con la tecnolog&amp;iacute;a que ya existe en el mercado y la que est&amp;aacute; por llegar. Nos acompa&amp;ntilde;an Carmen Martos, responsable del hub de innovaci&amp;oacute;n de EAE Madrid, y Ricardo Cuenyas director t&amp;eacute;cnico de Casual Robots que colaboran aportando piezas como robots, drones o capturadoras 3D. &amp;iquest;C&amp;oacute;mo deben formarse los estudiantes y empresarios del ma&amp;ntilde;ana en campos llenos de innovaci&amp;oacute;n?... hoy intentamos responder con un buen ejemplo.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-tecnologia-toma-aulas-06-02-24/15958013/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-tecnologia-toma-aulas-06-02-24/15958013/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/15958013.mp3" length="27502296" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <category>/iRTVE/Temáticas/Ciencia y futuro</category>
+      <pubDate>Tue, 06 Feb 2024 10:22:57 GMT</pubDate>
+      <guid>https://www.rtve.es/a/15958013/</guid>
+      <itunes:duration>00:28:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>La tecnología que toma las aulas</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-tecnologia-toma-aulas-060224/01707214922883.jpg"></itunes:image>
+      <itunes:summary>Esta semana nos trasladamos a un proyecto formativo muy interesante. Hacemos el programa desde el nuevo centro experiencial que ha montado EAE Madrid para que sus alumnos se familiaricen con la tecnología que ya existe en el mercado y la que está por llegar. Nos acompañan Carmen Martos, responsable del hub de innovación de EAE Madrid, y Ricardo Cuenyas director técnico de Casual Robots que colaboran aportando piezas como robots, drones o capturadoras 3D. ¿Cómo deben formarse los estudiantes y empresarios del mañana en campos llenos de innovación?... hoy intentamos responder con un buen ejemplo.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - El poder de la tecnología geoespacial - 23/01/24</title>
+      <link>https://www.rtve.es/play/audios/50/50-poder-tecnologia-geoespacial-23-01-24/15930583/</link>
+      <description>&lt;p&gt;Esta semana nos vamos a las oficinas de ESRI en Espa&amp;ntilde;a para charlar con su Consejera Delegada &amp;Aacute;ngeles Villaescusa. Con ella vamos a descubrir que es la tecnolog&amp;iacute;a geoespacial, c&amp;oacute;mo funcionan los proyectos GIS y c&amp;oacute;mo todo lo que nos rodea y que genera datos e informaci&amp;oacute;n puede interpretarse sobre mapas para optimizar tareas y procesos. Desde la gesti&amp;oacute;n eficiente de residuos en una ciudad hasta saber por qu&amp;eacute; zona crecer&amp;aacute; el urbanismo de una capital o c&amp;oacute;mo se comportar&amp;aacute; un gran incendio... todo esto y mucho m&amp;aacute;s lo hacen instituciones y empresas a partir de esos mapas inteligentes que ya incluso pueden predecir cosas... Interesante &amp;iquest;verdad?.....&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-poder-tecnologia-geoespacial-23-01-24/15930583/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-poder-tecnologia-geoespacial-23-01-24/15930583/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/15930583.mp3" length="28444376" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 23 Jan 2024 17:30:13 GMT</pubDate>
+      <guid>https://www.rtve.es/a/15930583/</guid>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>El poder de la tecnología geoespacial</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-poder-tecnologia-geoespacial-230124/01706007568421.jpg"></itunes:image>
+      <itunes:summary>Esta semana nos vamos a las oficinas de ESRI en España para charlar con su Consejera Delegada Ángeles Villaescusa. Con ella vamos a descubrir que es la tecnología geoespacial, cómo funcionan los proyectos GIS y cómo todo lo que nos rodea y que genera datos e información puede interpretarse sobre mapas para optimizar tareas y procesos. Desde la gestión eficiente de residuos en una ciudad hasta saber por qué zona crecerá el urbanismo de una capital o cómo se comportará un gran incendio... todo esto y mucho más lo hacen instituciones y empresas a partir de esos mapas inteligentes que ya incluso pueden predecir cosas... Interesante ¿verdad?.....</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - Las novedades del CES 2024 - 16/01/24</title>
+      <link>https://www.rtve.es/play/audios/50/50-novedades-del-ces-2024-16-01-24/15918589/</link>
+      <description>&lt;p&gt;Inteligencia artificial en todo, pasitos hacia el coche conectado, robots que nos ayudan en la vida cotidiana o teles transparentes... Son algunas de las novedades que hemos visto en el CES de Las Vegas. La periodista Isabel Rubio, colaboradora del diario El Pa&amp;iacute;s nos cuenta lo que se ha encontrado en su camino por la primera gran feria tecnol&amp;oacute;gica del a&amp;ntilde;o. Luego, INTEL nos detalla lo que han presentado en el marco de la feria, chips que incorporan ya su propia IA para ser m&amp;aacute;s eficientes y hacer m&amp;aacute;s tareas.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-novedades-del-ces-2024-16-01-24/15918589/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-novedades-del-ces-2024-16-01-24/15918589/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/15918589.mp3" length="25178861" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 16 Jan 2024 17:30:41 GMT</pubDate>
+      <guid>https://www.rtve.es/a/15918589/</guid>
+      <itunes:duration>00:26:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>Las novedades del CES 2024</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-novedades-del-ces-2024-160124/01705411236406.jpg"></itunes:image>
+      <itunes:summary>Inteligencia artificial en todo, pasitos hacia el coche conectado, robots que nos ayudan en la vida cotidiana o teles transparentes... Son algunas de las novedades que hemos visto en el CES de Las Vegas. La periodista Isabel Rubio, colaboradora del diario El País nos cuenta lo que se ha encontrado en su camino por la primera gran feria tecnológica del año. Luego, INTEL nos detalla lo que han presentado en el marco de la feria, chips que incorporan ya su propia IA para ser más eficientes y hacer más tareas.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - La IA que transforma la economía - 09/01/24</title>
+      <link>https://www.rtve.es/play/audios/50/ia-transforma-economia/7052186/</link>
+      <description>&lt;p&gt;Ya no hay ning&amp;uacute;n actor, sea del sector p&amp;uacute;blico o privado, que no se vea impactado por la &lt;strong&gt;irrupci&amp;oacute;n de la IA generativa&lt;/strong&gt;. Hoy analizamos el momento de cambio con &lt;strong&gt;Natalia Clavero&lt;/strong&gt;, directora de Inteligencia Artificial de Minsait, una de las empresas del grupo INDRA. &amp;iquest;Qu&amp;eacute; se puede hacer con ella? &amp;iquest;C&amp;oacute;mo van a cambiar las cosas en empresas e instituciones? &amp;iquest;C&amp;oacute;mo ser&amp;aacute; la regulaci&amp;oacute;n?.... Muchas dudas que hoy nos planteamos.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/ia-transforma-economia/7052186/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/ia-transforma-economia/7052186/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7052186.mp3" length="24761737" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 09 Jan 2024 17:30:25 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7052186/</guid>
+      <itunes:duration>00:25:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>La IA que transforma la economía</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-ia-transforma-economia-090124/1704796946176.jpg"></itunes:image>
+      <itunes:summary>Ya no hay ningún actor, sea del sector público o privado, que no se vea impactado por la irrupción de la IA generativa. Hoy analizamos el momento de cambio con Natalia Clavero, directora de Inteligencia Artificial de Minsait, una de las empresas del grupo INDRA. ¿Qué se puede hacer con ella? ¿Cómo van a cambiar las cosas en empresas e instituciones? ¿Cómo será la regulación?.... Muchas dudas que hoy nos planteamos.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - La carta a los Reyes Magos de los científicos españoles - 02/01/24</title>
+      <link>https://www.rtve.es/play/audios/50/carta-reyes-magos-cientificos-espanoles/7048182/</link>
+      <description>&lt;p&gt;Esta semana y para abrir el a&amp;ntilde;o tenemos un contenido muy especial. Leemos junto a Javier Garc&amp;iacute;a, Premio Nacional de Investigaci&amp;oacute;n 2023, la carta a los reyes magos de un grupo de cient&amp;iacute;ficos de &amp;eacute;lite espa&amp;ntilde;oles. Ellos piden al gobierno, a las empresas y a la ciudadan&amp;iacute;a apostar por 10 tecnolog&amp;iacute;as concretas para mejorar el potencial y la competitividad del pa&amp;iacute;s. Piden unos regalos que nos har&amp;iacute;an mejorar a todos como pa&amp;iacute;s, esc&amp;uacute;chalo!.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/carta-reyes-magos-cientificos-espanoles/7048182/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/carta-reyes-magos-cientificos-espanoles/7048182/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7048182.mp3" length="29865437" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 02 Jan 2024 17:31:42 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7048182/</guid>
+      <itunes:duration>00:31:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>La carta a los Reyes Magos de los científicos españoles</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-carta-reyes-magos-cientificos-espanoles-020124/1704192847586.jpg"></itunes:image>
+      <itunes:summary>Esta semana y para abrir el año tenemos un contenido muy especial. Leemos junto a Javier García, Premio Nacional de Investigación 2023, la carta a los reyes magos de un grupo de científicos de élite españoles. Ellos piden al gobierno, a las empresas y a la ciudadanía apostar por 10 tecnologías concretas para mejorar el potencial y la competitividad del país. Piden unos regalos que nos harían mejorar a todos como país, escúchalo!.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - Las &quot;techdencias&quot; para 2024 - 26/12/23</title>
+      <link>https://www.rtve.es/play/audios/50/techdencias-para-2024/7045117/</link>
+      <description>&lt;p&gt;Acabando 2023 queremos mirar a las que van a ser las grandes tendencias en tecnolog&amp;iacute;a de cara al pr&amp;oacute;ximo a&amp;ntilde;o. Por eso los expertos ingenieros de Paradigma nos ayudan a repasar las que seg&amp;uacute;n ellos ser&amp;aacute;n las &amp;quot;techdencias&amp;quot; del a&amp;ntilde;o que viene. Despu&amp;eacute;s de un 2023 en el que hemos hablado de inteligencia artificial para casi todo, los pr&amp;oacute;ximos meses ser&amp;aacute;n los de la IA general, la convivencia de datos en diferentes lenguajes y el tiempo de la regulaci&amp;oacute;n. Adem&amp;aacute;s en el &amp;uacute;ltimo programa del a&amp;ntilde;o hacemos balance de que ha sido lo m&amp;aacute;s buscado en Google por los usuarios de todo el mundo.... y hay algunas sorpresas....&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/techdencias-para-2024/7045117/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/techdencias-para-2024/7045117/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7045117.mp3" length="34016190" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 26 Dec 2023 21:25:46 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7045117/</guid>
+      <itunes:duration>00:35:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>Las &quot;techdencias&quot; para 2024</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-techdencias-para-2024-261223/1704728388708.jpg"></itunes:image>
+      <itunes:summary>Acabando 2023 queremos mirar a las que van a ser las grandes tendencias en tecnología de cara al próximo año. Por eso los expertos ingenieros de Paradigma nos ayudan a repasar las que según ellos serán las &quot;techdencias&quot; del año que viene. Después de un 2023 en el que hemos hablado de inteligencia artificial para casi todo, los próximos meses serán los de la IA general, la convivencia de datos en diferentes lenguajes y el tiempo de la regulación. Además en el último programa del año hacemos balance de que ha sido lo más buscado en Google por los usuarios de todo el mundo.... y hay algunas sorpresas....</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - &apos;La novia gitana&apos; en Dolby Atmos - 19/12/23</title>
+      <link>https://www.rtve.es/play/audios/50/novia-gitana-dolby-atmos/7039496/</link>
+      <description>&lt;p&gt;Esta semana os presentamos la primera ficci&amp;oacute;n sonora hecha en Espa&amp;ntilde;a con la tecnolog&amp;iacute;a Atmos de Dolby, una de las m&amp;aacute;s avanzadas en el posicionamiento de objetos y sonidos en el espacio. Se trata de la adaptaci&amp;oacute;n de una de las novelas m&amp;aacute;s vendidas de nuestra literatura contempor&amp;aacute;nea, la obra del tr&amp;iacute;o Carmen Mola &amp;quot;La novia gitana&amp;quot;. Charlamos con los escritores, el adaptador y los expertos en sonido que nos explican c&amp;oacute;mo se consigue un proyecto as&amp;iacute;. Y luego nos metemos entre fogones ahora que llegan las cenas de Navidad. Tecnolog&amp;iacute;a en los hornos, que ya no son &amp;uacute;nicamente hornos, cocinan al vapor... y fr&amp;iacute;en sin aceite.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/novia-gitana-dolby-atmos/7039496/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/novia-gitana-dolby-atmos/7039496/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7039496.mp3" length="25904856" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 19 Dec 2023 17:30:59 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7039496/</guid>
+      <itunes:duration>00:26:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>&apos;La novia gitana&apos; en Dolby Atmos</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-novia-gitana-dolby-atmos-191223/1702982262667.jpg"></itunes:image>
+      <itunes:summary>Esta semana os presentamos la primera ficción sonora hecha en España con la tecnología Atmos de Dolby, una de las más avanzadas en el posicionamiento de objetos y sonidos en el espacio. Se trata de la adaptación de una de las novelas más vendidas de nuestra literatura contemporánea, la obra del trío Carmen Mola &quot;La novia gitana&quot;. Charlamos con los escritores, el adaptador y los expertos en sonido que nos explican cómo se consigue un proyecto así. Y luego nos metemos entre fogones ahora que llegan las cenas de Navidad. Tecnología en los hornos, que ya no son únicamente hornos, cocinan al vapor... y fríen sin aceite.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - Crecer con pantallas - 12/12/23</title>
+      <link>https://www.rtve.es/play/audios/50/crecer-pantallas/7033498/</link>
+      <description>&lt;p&gt;&amp;#039;Crecer con pantallas&amp;#039; es el nuevo libro de la experta en educaci&amp;oacute;n digital &lt;strong&gt;Laura Cuesta Cano&lt;/strong&gt;. Hoy compartimos charla con ella en unas semanas en las que muchos padres se plantean regalar a sus hijos los primeros dispositivos digitales. &amp;iquest;A qu&amp;eacute; edad debe tener un ni&amp;ntilde;o un m&amp;oacute;vil?, &amp;iquest;deber&amp;iacute;a legislarse sobre la presencia de tabletas en las aulas? De todo eso hablamos y adem&amp;aacute;s conoceremos m&amp;aacute;s sobre la nueva ley que Europa ha aprobado para regular el uso de la IA.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/crecer-pantallas/7033498/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/crecer-pantallas/7033498/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7033498.mp3" length="26485819" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 12 Dec 2023 10:39:50 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7033498/</guid>
+      <itunes:duration>00:27:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>Crecer con pantallas</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-crecer-pantallas-121223/1702379433298.jpg"></itunes:image>
+      <itunes:summary>&apos;Crecer con pantallas&apos; es el nuevo libro de la experta en educación digital Laura Cuesta Cano. Hoy compartimos charla con ella en unas semanas en las que muchos padres se plantean regalar a sus hijos los primeros dispositivos digitales. ¿A qué edad debe tener un niño un móvil?, ¿debería legislarse sobre la presencia de tabletas en las aulas? De todo eso hablamos y además conoceremos más sobre la nueva ley que Europa ha aprobado para regular el uso de la IA.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - Alberto Ruano (Lenovo) &apos;La IA hará crecer el mercado de la tecnología - 05/12/23</title>
+      <link>https://www.rtve.es/play/audios/50/alberto-ruano-lenovo/7028529/</link>
+      <description>&lt;p&gt;Esta semana compartimos charla con el Director General de Lenovo para Espa&amp;ntilde;a y Portugal, Alberto Ruano. Cumple 10 a&amp;ntilde;os en el puesto y conoce a la perfecci&amp;oacute;n el mercado de la tecnolog&amp;iacute;a. Augura que la Inteligencia Artificial va a ser un gran motor de cambio, que va a dinamizar el mercado tras la pandemia y que ser&amp;aacute; clave en sectores como la salud y las infraestructuras. No te pierdas la entrevista completa con uno de los referentes de las empresas tecnol&amp;oacute;gicas m&amp;aacute;s reconocibles en nuestro pa&amp;iacute;s.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/alberto-ruano-lenovo/7028529/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/alberto-ruano-lenovo/7028529/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7028529.mp3" length="27547435" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 05 Dec 2023 17:30:00 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7028529/</guid>
+      <itunes:duration>00:28:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>Alberto Ruano (Lenovo)</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-alberto-ruano-lenovo-ia-hara-crecer-mercado-tecnologia-051223/1701772131089.jpg"></itunes:image>
+      <itunes:summary>Esta semana compartimos charla con el Director General de Lenovo para España y Portugal, Alberto Ruano. Cumple 10 años en el puesto y conoce a la perfección el mercado de la tecnología. Augura que la Inteligencia Artificial va a ser un gran motor de cambio, que va a dinamizar el mercado tras la pandemia y que será clave en sectores como la salud y las infraestructuras. No te pierdas la entrevista completa con uno de los referentes de las empresas tecnológicas más reconocibles en nuestro país.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - El siglo de los videojuegos - 28/11/23</title>
+      <link>https://www.rtve.es/play/audios/50/siglo-videojuegos/7022203/</link>
+      <description>&lt;p&gt;Hoy leemos el nuevo libro de&lt;strong&gt;Borja Vaz&lt;/strong&gt; y &lt;strong&gt;Jorge Morla&lt;/strong&gt;, dos periodistas del &amp;aacute;mbito cultural que firman un ensayo en defensa del enorme valor cultural que han tenido, tienen y tendr&amp;aacute;n los videojuegos. Hablamos del ocio electr&amp;oacute;nico desde una perspectiva muy distintal el valor que aportan a la cultura de masas, a las &amp;eacute;lites de campos concretos o la geopol&amp;iacute;tica que hay detr&amp;aacute;s de las grandes empresas del sector. Una lectura muy recomendable. Y despu&amp;eacute;s, ahondando en esos nuevos modelos de juego que llegan cada d&amp;iacute;a, os explicamos como funciona LUNA, el servicio de juegos en streaming que acaba de aterrizar en el mercado espa&amp;ntilde;ol.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/siglo-videojuegos/7022203/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/siglo-videojuegos/7022203/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7022203.mp3" length="35446028" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 28 Nov 2023 17:30:00 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7022203/</guid>
+      <itunes:duration>00:36:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>El siglo de los videojuegos</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-siglo-videojuegos-281123/1701171780078.jpg"></itunes:image>
+      <itunes:summary>Hoy leemos el nuevo libro deBorja Vaz y Jorge Morla, dos periodistas del ámbito cultural que firman un ensayo en defensa del enorme valor cultural que han tenido, tienen y tendrán los videojuegos. Hablamos del ocio electrónico desde una perspectiva muy distintal el valor que aportan a la cultura de masas, a las élites de campos concretos o la geopolítica que hay detrás de las grandes empresas del sector. Una lectura muy recomendable. Y después, ahondando en esos nuevos modelos de juego que llegan cada día, os explicamos como funciona LUNA, el servicio de juegos en streaming que acaba de aterrizar en el mercado español.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - La tecnología tras el Black Friday - 21/11/23</title>
+      <link>https://www.rtve.es/play/audios/50/tecnologia-tras-black-friday/7015148/</link>
+      <description>&lt;p&gt;Esta semana es esa gran cita del consumismo importada de EEUU, el viernes negro que ya ha pasado a ser no un d&amp;iacute;a sino muchos de ofertas, especialmente en tecnolog&amp;iacute;a. Hoy analizamos el fen&amp;oacute;meno desde varios puntos de vista. Con InPost descubrimos la tecnolog&amp;iacute;a que hay detr&amp;aacute;s del reto log&amp;iacute;stico del transporte de paquetes. Con PCcomponentes hablamos de qu&amp;eacute; gadgets son los que el mercado demanda estos d&amp;iacute;as. Y con los expertos en seguridad de INNOTEC os damos consejos pr&amp;aacute;cticos ante el auge de ciberestafas que propician d&amp;iacute;as como estos.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/tecnologia-tras-black-friday/7015148/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/tecnologia-tras-black-friday/7015148/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7015148.mp3" length="31754613" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 21 Nov 2023 17:30:41 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7015148/</guid>
+      <itunes:duration>00:33:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>La tecnología tras el Black Friday</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-tecnologia-tras-black-friday-211123/1700491264005.jpg"></itunes:image>
+      <itunes:summary>Esta semana es esa gran cita del consumismo importada de EEUU, el viernes negro que ya ha pasado a ser no un día sino muchos de ofertas, especialmente en tecnología. Hoy analizamos el fenómeno desde varios puntos de vista. Con InPost descubrimos la tecnología que hay detrás del reto logístico del transporte de paquetes. Con PCcomponentes hablamos de qué gadgets son los que el mercado demanda estos días. Y con los expertos en seguridad de INNOTEC os damos consejos prácticos ante el auge de ciberestafas que propician días como estos.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - El debate de la fotografía con IA - 14/11/23</title>
+      <link>https://www.rtve.es/play/audios/50/debate-fotografia-ia/7010607/</link>
+      <description>&lt;p&gt;Esta semana os traemos dos temas muy interesantes. Primero charlamos con &lt;strong&gt;Emma Gilmartin&lt;/strong&gt;, responsable dentro de Amazon de los dispositivos Fire TV para Europa sobre c&amp;oacute;mo est&amp;aacute; cambiando el uso del televisor con los dispositivos de streaming. Ya no s&amp;oacute;lo consumimos contenidos queremos hacer de todo con nuestras teles. Luego analizamos el apartado fotogr&amp;aacute;fico de los Google Pixel 8. Los m&amp;oacute;viles de Google lo han apostado todo a la fotograf&amp;iacute;a y a la inteligencia artificial pero hay debate... &amp;iquest;preferimos tener fotos m&amp;aacute;s espectaculares a costa de saber que no son reales?... Lo analizamos.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/debate-fotografia-ia/7010607/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/debate-fotografia-ia/7010607/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7010607.mp3" length="26163573" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 14 Nov 2023 08:56:59 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7010607/</guid>
+      <itunes:duration>00:27:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>El debate de la fotografía con IA</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-debate-fotografia-ia-141123/1699956982241.jpg"></itunes:image>
+      <itunes:summary>Esta semana os traemos dos temas muy interesantes. Primero charlamos con Emma Gilmartin, responsable dentro de Amazon de los dispositivos Fire TV para Europa sobre cómo está cambiando el uso del televisor con los dispositivos de streaming. Ya no sólo consumimos contenidos queremos hacer de todo con nuestras teles. Luego analizamos el apartado fotográfico de los Google Pixel 8. Los móviles de Google lo han apostado todo a la fotografía y a la inteligencia artificial pero hay debate... ¿preferimos tener fotos más espectaculares a costa de saber que no son reales?... Lo analizamos.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - Madrid In Game - 07/11/23</title>
+      <link>https://www.rtve.es/play/audios/50/madrid-in-game/7005764/</link>
+      <description>&lt;p&gt;Esta semana nos marchamos hasta Madrid In Game, el nuevo campus del videojuego que ha puesto en marcha el Ayuntamiento de la capital. All&amp;iacute; trabajan 50 startups centradas no s&amp;oacute;lo en el desarrollo de videojuegos sino en otros proyectos que tienen que ver con el ocio electr&amp;oacute;nico. En compa&amp;ntilde;&amp;iacute;a de &lt;strong&gt;&amp;Aacute;ngel Ni&amp;ntilde;o&lt;/strong&gt;, concejal de innovaci&amp;oacute;n y emprendimiento del ayuntamiento madrile&amp;ntilde;o, recorreremos sus instalaciones, laboratorios y zonas de juego para entrenamiento de profesionales o simples aficionados a los e-sports.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/madrid-in-game/7005764/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/madrid-in-game/7005764/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7005764.mp3" length="32447589" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 07 Nov 2023 09:44:46 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7005764/</guid>
+      <itunes:duration>00:33:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>Madrid In Game</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-madrid-in-game-071123/1699354926263.jpg"></itunes:image>
+      <itunes:summary>Esta semana nos marchamos hasta Madrid In Game, el nuevo campus del videojuego que ha puesto en marcha el Ayuntamiento de la capital. Allí trabajan 50 startups centradas no sólo en el desarrollo de videojuegos sino en otros proyectos que tienen que ver con el ocio electrónico. En compañía de Ángel Niño, concejal de innovación y emprendimiento del ayuntamiento madrileño, recorreremos sus instalaciones, laboratorios y zonas de juego para entrenamiento de profesionales o simples aficionados a los e-sports.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - La tecnología tras una pieza de LEGO - 31/10/23</title>
+      <link>https://www.rtve.es/play/audios/50/50-tecnologia-tras-pieza-lego/7001370/</link>
+      <description>&lt;p&gt;Sus bloques de colores y con esas espigas tan caracter&amp;iacute;sticas se han convertido ya en un icono reconocible de la cultura popular, todos hemos visto o jugado alguna vez con una pieza de LEGO, pero... &amp;iquest;Sab&amp;eacute;is cu&amp;aacute;nta tecnolog&amp;iacute;a hay detr&amp;aacute;s?... Hoy hablamos de su dise&amp;ntilde;o, materiales y de su mezcla con tecnolog&amp;iacute;as como la realidad aumentada o la programaci&amp;oacute;n. &lt;/p&gt;&lt;p&gt;Luego jugamos con la nueva aventura de Super Mario... Wonder es un plataformas 2D que tiene toda la magia de los juegos cl&amp;aacute;sicos de Mario pero con un giro de tuerca que os va a sorprender.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-tecnologia-tras-pieza-lego/7001370/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-tecnologia-tras-pieza-lego/7001370/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/7001370.mp3" length="25851775" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <category>Radio/Cadenas/Radio 5</category>
+      <pubDate>Tue, 31 Oct 2023 10:20:33 GMT</pubDate>
+      <guid>https://www.rtve.es/a/7001370/</guid>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>La tecnología tras una pieza de LEGO</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-tecnologia-tras-pieza-lego-311023/1698750588819.jpg"></itunes:image>
+      <itunes:summary>Sus bloques de colores y con esas espigas tan características se han convertido ya en un icono reconocible de la cultura popular, todos hemos visto o jugado alguna vez con una pieza de LEGO, pero... ¿Sabéis cuánta tecnología hay detrás?... Hoy hablamos de su diseño, materiales y de su mezcla con tecnologías como la realidad aumentada o la programación. Luego jugamos con la nueva aventura de Super Mario... Wonder es un plataformas 2D que tiene toda la magia de los juegos clásicos de Mario pero con un giro de tuerca que os va a sorprender.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - FIX una alternativa contra los microplásticos - 24/10/23</title>
+      <link>https://www.rtve.es/play/audios/50/50-fix-alternativa-contra-microplasticos/6996335/</link>
+      <description>&lt;p&gt;Europa le ha declarado la guerra a los micropl&amp;aacute;sticos. Estos peque&amp;ntilde;&amp;iacute;simos residuos provocan actualmente da&amp;ntilde;os en los ecosistemas marinos y pueden ser nocivos a futuro para el ser humano, por eso la Comisi&amp;oacute;n Europea ha prohibido cosas como la purpurina o algunos elementos del c&amp;eacute;sped artificial. Como alternativa un grupo de estudiantes espa&amp;ntilde;oles han inventado FIX, un material que aprovecha los residuos de micropl&amp;aacute;stico de nuestras lavadoras. Han recibido un importante premio, el James Dyson Award 2023 en Espa&amp;ntilde;a, y con los responsables del concurso y una de las ganadoras vamos a charlar. Adem&amp;aacute;s repasamos alguna de las noticias tekis de los &amp;uacute;ltimos d&amp;iacute;as y jugamos con SONIC SUPERSTARS, una nueva entrega de las aventuras del erizo azul que actualiza la propuesta de juego de un plataformas 2D de los a&amp;ntilde;os noventa.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-fix-alternativa-contra-microplasticos/6996335/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-fix-alternativa-contra-microplasticos/6996335/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/6996335.mp3" length="26268480" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 24 Oct 2023 16:30:00 GMT</pubDate>
+      <guid>https://www.rtve.es/a/6996335/</guid>
+      <itunes:duration>00:27:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>FIX una alternativa contra los microplásticos</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-fix-alternativa-contra-microplasticos-241023/1698144476593.jpg"></itunes:image>
+      <itunes:summary>Europa le ha declarado la guerra a los microplásticos. Estos pequeñísimos residuos provocan actualmente daños en los ecosistemas marinos y pueden ser nocivos a futuro para el ser humano, por eso la Comisión Europea ha prohibido cosas como la purpurina o algunos elementos del césped artificial. Como alternativa un grupo de estudiantes españoles han inventado FIX, un material que aprovecha los residuos de microplástico de nuestras lavadoras. Han recibido un importante premio, el James Dyson Award 2023 en España, y con los responsables del concurso y una de las ganadoras vamos a charlar. Además repasamos alguna de las noticias tekis de los últimos días y jugamos con SONIC SUPERSTARS, una nueva entrega de las aventuras del erizo azul que actualiza la propuesta de juego de un plataformas 2D de los años noventa.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - La economía del silicio - 17/10/23</title>
+      <link>https://www.rtve.es/play/audios/50/50-economia-del-silicio/6991202/</link>
+      <description>&lt;p&gt;Despu&amp;eacute;s de la electricidad o el petr&amp;oacute;leo, la nueva productividad del planeta se articula a partir de la llamada &amp;quot;econom&amp;iacute;a del silicio&amp;quot; que es la base de esos semiconductores que est&amp;aacute;n dentro de cualquier producto tecnol&amp;oacute;gico. Estudios recientes cuantifican su impacto en m&amp;aacute;s de 575 billones de d&amp;oacute;lares que habilitan una industria que mueve trillones de d&amp;oacute;lares de facturaci&amp;oacute;n. Hoy, con ayuda de Jes&amp;uacute;s S&amp;aacute;nchez, responsable de consumo de INTEL para Europa y Medio Oriente, analizamos el estado de esa econom&amp;iacute;a del silicio que ahora est&amp;aacute; presente en m&amp;aacute;s aspectos de nuestra vida de los que podr&amp;iacute;amos imaginar.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-economia-del-silicio/6991202/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-economia-del-silicio/6991202/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/6991202.mp3" length="24306162" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <category>Radio/Cadenas/Radio 5</category>
+      <pubDate>Tue, 17 Oct 2023 09:25:02 GMT</pubDate>
+      <guid>https://www.rtve.es/a/6991202/</guid>
+      <itunes:duration>00:25:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>La economía del silicio</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-economia-del-silicio-171023/1697537757570.jpg"></itunes:image>
+      <itunes:summary>Después de la electricidad o el petróleo, la nueva productividad del planeta se articula a partir de la llamada &quot;economía del silicio&quot; que es la base de esos semiconductores que están dentro de cualquier producto tecnológico. Estudios recientes cuantifican su impacto en más de 575 billones de dólares que habilitan una industria que mueve trillones de dólares de facturación. Hoy, con ayuda de Jesús Sánchez, responsable de consumo de INTEL para Europa y Medio Oriente, analizamos el estado de esa economía del silicio que ahora está presente en más aspectos de nuestra vida de los que podríamos imaginar.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - Asi es el EA FC 2024 - 10/10/23</title>
+      <link>https://www.rtve.es/play/audios/50/50-asi-ea-fc-2024/6986362/</link>
+      <description>&lt;p&gt;Desde hace casi 30 a&amp;ntilde;os la saga futbolera de Electronic Arts se ha convertido en una cita inevitable cada a&amp;ntilde;o para los amantes del deporte virtual. Esta vez el juego de EA inicia una nueva &amp;eacute;poca con un cambio de nombre y redise&amp;ntilde;o de filosof&amp;iacute;a, hoy charlamos de todo ello con uno de los m&amp;aacute;ximos responsables de la franquicia. Adem&amp;aacute;s os presentamos los DENON Pearl unos auriculares muy especiales porque antes de escuchar m&amp;uacute;sica nos realizan una especie de audiometr&amp;iacute;a para adaptar el sonido a las condiciones de nuestros odidos, la tecnolog&amp;iacute;a m&amp;eacute;dica se entremezcla con la de consumo.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-asi-ea-fc-2024/6986362/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-asi-ea-fc-2024/6986362/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/6986362.mp3" length="24347540" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <pubDate>Tue, 10 Oct 2023 16:30:00 GMT</pubDate>
+      <guid>https://www.rtve.es/a/6986362/</guid>
+      <itunes:duration>00:25:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>Asi es el EA FC 2024</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-asi-ea-fc-2024-101023/1696933057176.jpg"></itunes:image>
+      <itunes:summary>Desde hace casi 30 años la saga futbolera de Electronic Arts se ha convertido en una cita inevitable cada año para los amantes del deporte virtual. Esta vez el juego de EA inicia una nueva época con un cambio de nombre y rediseño de filosofía, hoy charlamos de todo ello con uno de los máximos responsables de la franquicia. Además os presentamos los DENON Pearl unos auriculares muy especiales porque antes de escuchar música nos realizan una especie de audiometría para adaptar el sonido a las condiciones de nuestros odidos, la tecnología médica se entremezcla con la de consumo.</itunes:summary>
+    </item>
+    <item>
+      <title>5.0 - Homenaje a Mario Tascón - 03/10/23</title>
+      <link>https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/</link>
+      <description>&lt;p&gt;Hoy recordamos al tecn&amp;oacute;logo Mario Tasc&amp;oacute;n. Estuvimos con el hace unas semanas en la exposici&amp;oacute;n Fake News de la Fundaci&amp;oacute;n Telef&amp;oacute;nica, uno de sus &amp;uacute;ltimos trabajos.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;a href="https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/"&gt;Escuchar audio&lt;/a&gt;&lt;/div&gt;&lt;img src="http://secure-uk.imrworldwide.com/cgi-bin/m?ci=es-rssrtve&amp;cg=F-N-B-TERNE-TERPROGR-TERCIYTEC-TES50&amp;si=https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/" alt=""/&gt;</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/6980629.mp3" length="23794897" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <category>Radio/Cadenas/Radio 5</category>
+      <pubDate>Tue, 03 Oct 2023 09:12:40 GMT</pubDate>
+      <guid>https://www.rtve.es/a/6980629/</guid>
+      <itunes:duration>00:24:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, 5.0</itunes:keywords>
+      <itunes:subtitle>Homenaje a Mario Tascón</itunes:subtitle>
+      <itunes:image href="https://img2.rtve.es/imagenes/50-homenaje-mario-tascon-031023/1696328063476.jpg"></itunes:image>
+      <itunes:summary>Hoy recordamos al tecnólogo Mario Tascón. Estuvimos con el hace unas semanas en la exposición Fake News de la Fundación Telefónica, uno de sus últimos trabajos.</itunes:summary>
+    </item>
+  </channel>
 </rss>
