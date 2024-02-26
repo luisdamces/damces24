@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-      <image>
-        <title>5.0</title>
-        <url>https://img2.rtve.es/imagenes/50/1624028284337.jpg</url>
+        <title>Mi propio xml para podcast</title>
         <link>https://www.rtve.es/play/audios/50/</link>
-      </image>
+        <description>Lenguaje de marcas, coleccion de ejercicios</description>
+        <language>es</language>
+        <pubDate>Mon, 26 Feb 2024 11:51:58 GMT</pubDate>
+        <image>
+            <title>5.0</title>
+            <url>https://img2.rtve.es/imagenes/50/1624028284337.jpg</url>
+            <link>https://www.rtve.es/play/audios/50/</link>
+        </image>
+        <item>
+              <title>Primer item</title>
+              <link>https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/</link>
+              <description>validando un xml</description>
+              <enclosure url="https://ztnr.rtve.es/ztnr/6980629.mp3" length="23794897" type="audio/mpeg"></enclosure>
+              <category>DAM</category>
+              <pubDate>Tue, 03 Oct 2023 09:12:40 GMT</pubDate>
+              <guid>https://www.rtve.es/a/6980629/</guid>
+        </item>
     </channel>
 </rss>
